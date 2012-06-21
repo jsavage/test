@@ -31,3 +31,4 @@ quit
 # skip db_config.py
 
 tiddlyspace tiddlyspace_instance  # Errors received at this point
+#  "Access denied for user 'jsavage'@'localhost' (using password: NO)") None None
